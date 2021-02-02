@@ -1,0 +1,17 @@
+{
+  "name": "js-practice-upload",
+  "version": "1.0.0",
+  "description": "js practice",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "author": "Oleg Dosov",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "firebase": "^8.2.5"
+  }
+}
